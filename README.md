@@ -62,4 +62,12 @@ The project then compares several numerical pricing approaches:
 
 ---
 
-*Academic coursework completed as part of the MSc Financial Mathematics programme at the University of Leeds.*
+# Author
+
+**Jack Adams**
+
+MSc Financial Mathematics (Distinction)
+
+University of Leeds
+
+LinkedIn: https://www.linkedin.com/in/jackmadams
